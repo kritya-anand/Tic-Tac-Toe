@@ -1,6 +1,6 @@
 Tic-Tac-Toe
 
-**It is a Tic Tac Toe game built using Python.
+It is a Tic Tac Toe game built using Python.
 
 This game has two parts:
 
@@ -8,4 +8,4 @@ Bot v/s Human: In this user will be asked for index where they want to place the
 
 Both v/s Bot: Two computer players select a place randomly to mark it as 'X' or 'O'.
 
-The winner is decided by the simple rules of basic Tic Tac Toe game.**
+The winner is decided by the simple rules of basic Tic Tac Toe game.
